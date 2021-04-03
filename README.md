@@ -1,11 +1,6 @@
-# Pygame-Platformer-Shooter
-First major project on Python
-* View a demo video [here](https://www.youtube.com/watch?v=uwWRv9PNqWU)
+# GABBAR SHOOTER
+Hobby project made in Python 
 
-## Using the application
-* Clone github repository
-* Download required dependencies: ```$ pip install -r requirements.txt```
-* ```$ python main.py```
 
 ## Controls
 * Move Right - d
@@ -18,4 +13,9 @@ First major project on Python
 * Exit Fullscreen (if in menu) - Escape
 * Enter Fullscreen - f
 
-**I do not take credit for most of the art**
+
+## CAUTION ##
+We do not hold any affiliation with the character from the G.P. Sippy Production Sholay
+We use the name only for comedic purposes
+
+**THE ART IS TAKEN FROM OPEN LICENSED IMAGE SERVICES AND HENCE DO NOT TAKE ANY CREDIT FOR THE SAME**
