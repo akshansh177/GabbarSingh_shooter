@@ -6,7 +6,7 @@ pygame.mixer.pre_init(44100, -16, 2, 2048)
 pygame.init()
 clock = pygame.time.Clock()
 
-pygame.display.set_caption('Shooter Platformer')
+pygame.display.set_caption('GabbarSingh_shooter')
 
 info_object = pygame.display.Info()
 WINDOW_SIZE = (info_object.current_w, info_object.current_h)
@@ -192,7 +192,7 @@ class Player():
         self.vel = vel
         self.width = width
         self.height = height
-        self.jump_height = jump_height
+        self.jump_height = jump_height*1.5
         self.health = health
         self.jumping = False
         self.moving_right = False
